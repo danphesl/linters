@@ -13,10 +13,6 @@ And then execute:
 
     $ bundle install
 
-Or install it yourself as:
-
-    $ gem install linters
-
 ## Usage
 Run the rake task
 
