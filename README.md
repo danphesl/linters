@@ -6,7 +6,7 @@ Linters used for the Ruby on Rails and React Js projects.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'linters-dsl'
+gem 'linters-dsl', git:  "git@github.com:danphesl/linters.git"
 ```
 
 And then execute:
@@ -18,8 +18,9 @@ Or install it yourself as:
     $ gem install linters
 
 ## Usage
+Run the rake task
 
-TODO: Write usage instructions here
+    $ bundle exec rake linters:generate
 
 ## Development
 
