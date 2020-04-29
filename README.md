@@ -6,7 +6,7 @@ Linters used for the Ruby on Rails and React Js projects.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'linters'
+gem 'linters-dsl'
 ```
 
 And then execute:

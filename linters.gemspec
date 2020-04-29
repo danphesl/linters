@@ -1,7 +1,7 @@
 require_relative 'lib/linters/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "linters"
+  spec.name          = "linters-dsl"
   spec.version       = Linters::VERSION
   spec.authors       = ["subzekt"]
   spec.email         = ["poudel.subas089@gmail.com"]
